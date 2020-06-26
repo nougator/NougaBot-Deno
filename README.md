@@ -1,2 +1,2 @@
 # NougaBot-Deno
-A discord bot made with Deno (using Coward)
+A discord bot made with [Deno](https://deno.land) (using Coward)
